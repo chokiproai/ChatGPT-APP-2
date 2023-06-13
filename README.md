@@ -1,22 +1,29 @@
 # ChatGPT-APP-2
 
-<img align="center" height=300 alt="OpenAI ChatGPT Cover Banner" src="https://user-images.githubusercontent.com/67185896/236300795-7926211f-6a43-4f19-b94a-0da2c7776e47.png">
+
+<img align="center" width="600" alt="OpenAI ChatGPT Cover Banner" src="https://user-images.githubusercontent.com/67185896/236300795-7926211f-6a43-4f19-b94a-0da2c7776e47.png">
+
+<br>
 
 The following table contains several unofficial websites for using [OpenAI's ChatGPT](https://chat.openai.com/) without an account or an API key for free. The following chat models can be used (depends on site):
 - `gpt-3.5-turbo` (allows max. 4,096 input tokens)
 - `gpt-4` (allows max. 8,192 input tokens)
 - `gpt-4-32k` (allows max. 32,768 input tokens)
 
-## Working ChatGPT proxy websites (no account/API key required)
+## Working ChatGPT proxy/mirror websites (no account/API key required)
 All of them respond in English, too (even if the website itself is in Chinese).
 
 The table only represents the features of the free version of the website. Some websites offer a paid version with more features.
 
+Make sure to read the text under the table, as well, as it contains important information about the websites.
+
+
+**The API column is coming soon.**
 
 | Website                                        | 3.5  | 4*  | 4-32k | No CF | API | Custom Temp. | Custom Sys. Prompt | English possible | GUI              | Notes                                                           |
 | ---------------------------------------------- | ---- | --- | ----- | ----- | --- | ------------ | ------------------ | ---------------- | ---------------- | --------------------------------------------------------------- |
 | [GPTPlus](https://chat.gptplus.one)            | ✔️ | ❌  | ❌    | ✔️  |     | ✔️         | ✔️               | ✔️             | Chanzhaoyu       |                                                                 |
-| [GetGPT](https://chat.getgpt.world/)           | ✔️ | ❌  | ❌    | ✔️  |     | ❌           | ❌                 | ✔️             | BetterGPT        | Customization (temp, etc. disabled for some reason |
+| [GetGPT](https://chat.getgpt.world)           | ✔️ | ❌  | ❌    | ✔️  |     | ❌           | ❌                 | ✔️             | BetterGPT        | Customization is disabled |
 | [AI.ls](https://ai.ls)                         | ✔️ | ❌  | ❌    | ✔️  |     | ✔️         | ✔️               | ✔️             | ai.ls            |                                                                 |
 | [Cutim](https://chat.cutim.one)                | ✔️ | ❌  | ❌    | ✔️  |     | ✔️         | ✔️               | ✔️             | Chanzhaoyu       |                                                                 |
 | [Ok2AI](https://chat.ok2ai.com)                | ✔️ | ❌  | ❌    | ❌    |     | ✔️         | ✔️               | ✔️             | Chanzhaoyu       |                                                                 |
@@ -80,7 +87,7 @@ This means that the website has multiple domains that point to the same website.
 - https://chat.51buygpt.com
     - stopped working
 - https://fastgpt.app/
-    - stopped working
+    - stopped working/requires API key
 
 ## Disclaimer
 
@@ -96,7 +103,7 @@ Some of these websites are in Chinese, but don't worry - I don't understand any 
 
 Moreover, I only chose websites where the AI responds in English, too.
 
-## Useful resources:
+## Useful resources
 - [Awesome ChatGPT](https://github.com/humanloop/awesome-chatgpt)
 - [API Documentation](https://platform.openai.com/docs)
 - [OpenAI Blog about ChatGPT](https://openai.com/blog/chatgpt/)
@@ -125,11 +132,3 @@ This list is based on:
         ❓ Requires manual verification. Access exception, uncertain if it is invalid, program detection unable to access, etc.
 
         ❌ Has expired. Will be removed after a period of expiration.
-
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=Luna-OSS/awesome-free-chatgpt&type=Date)](https://star-history.com/#Luna-OSS/awesome-free-chatgpt&Date)
-
-Feel free to contribute :)
-Report any issues to the "issues" tab.
